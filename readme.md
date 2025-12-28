@@ -1,10 +1,10 @@
 # markogolovko.com
 
-This repository contains the source code for [markogolovko.com](https://markogolovko.com/), the personal website.
+This repository contains the source code for [markogolovko.com](https://markogolovko.com/), the personal website. 
 
 ## 🔍 About
 
-The website serves as a platform to share authors thoughts, projects, and insights into the tech industry.
+The website serves as a platform to share authors thoughts, projects, and insights into the tech industry. It features a blog, portfolio, and contact information.
 
 ## 🛠️ Built With
 
